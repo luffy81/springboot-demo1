@@ -19,7 +19,6 @@ public class Car {
     private int year;
 
     public Car() {
-
     }
 
     public Car(String brand, String model, String color, String fuel, int year) {
